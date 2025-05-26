@@ -49,7 +49,7 @@ function App() {
 
   return (
     <div className="portfolio-container">
-    {/* Hero Section */}
+      {/* Hero Section */}
       <section className="hero" id="hero">
         <div className="hero-content">
           <div className="hero-text">
@@ -69,7 +69,7 @@ function App() {
       <section className="about" id="about">
         <h2>About Me</h2>
         <p>
-          I'm a passionate Software Developer and Cybersecurity Analyst with hands-on experience in Full Stack Development, Penetration Testing, and Security Operations Center (SOC) operations.
+          I'm a passionate software developer and cybersecurity analyst with hands-on experience in full-stack development, penetration testing, and Security Operations Center (SOC) operations.
         </p>
       </section>
 
@@ -91,24 +91,38 @@ function App() {
         <div className="project-list">
           <div className="project-card">
             <h3>Secure Web Application</h3>
-            <p>A full-stack app with JWT authentication and OWASP security practices.</p>
+            <p>A full-stack application featuring JWT authentication and OWASP security best practices.</p>
           </div>
           <div className="project-card">
             <h3>Network Intrusion Detection System</h3>
-            <p>Built with Python and machine learning to detect anomalies in traffic.</p>
+            <p>Built using Python and machine learning to detect anomalies in network traffic.</p>
           </div>
           <div className="project-card">
             <h3>DevSecOps Pipeline</h3>
-            <p>CI/CD integration with GitHub Actions and automated security scanning.</p>
+            <p>CI/CD integration with GitHub Actions and automated security scanning tools like OWASP ZAP and Snyk.</p>
           </div>
         </div>
+      </section>
+
+      {/* Certifications / Trainings / Achievements Section */}
+      <section className="cta" id="cta">
+        <h2>Certifications, Trainings, and Achievements</h2>
+        <ul>
+          <li>Python Essentials I – Cisco Networking Academy</li>
+          <li>Introduction to Cybersecurity – Cisco Networking Academy</li>
+          <li>Ethical Hacking: Understanding the Thin Line – DICT R9 & BASULTA Training Division via Zoom</li>
+          <li>DICT-ICT018 Basic Level of Software Engineering – DICT-LMS</li>
+          <li>DICT-ICT013 Intermediate Level of Software Engineering – DICT-LMS</li>
+          <li>DICT-ICT017 Advanced Level of Software Engineering – DICT-LMS</li>
+          <li>Securing Web Applications – DICT Camarines Norte, Region V via Zoom</li>
+        </ul>
       </section>
 
       {/* Contact Section */}
       <section className="contact" id="contact">
         <h2>Contact</h2>
-        <p>Email: lancelot.grafilo@example.com</p>
-        <p>LinkedIn: /in/lancelotgrafilo</p>
+        <p>Email: grafilolancelot@gmail.com</p>
+        <p>LinkedIn: linkedin.com/in/lancelot-grafilo</p>
         <p>GitHub: github.com/lancelotgrafilo</p>
       </section>
     </div>
