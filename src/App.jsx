@@ -58,6 +58,9 @@ function App() {
               <span className="typewriter">{text}</span>
               <span className="cursor">|</span>
             </div>
+            <a href="/GrafiloLancelotCV.pdf" download className="download-cv-btn">
+              Download CV
+            </a>
           </div>
           <div className="hero-image">
             <img src={profile} alt="Lancelot Grafilo" />
@@ -78,7 +81,7 @@ function App() {
         <h2>Skills</h2>
         <ul>
           <li>JavaScript, React, Node.js</li>
-          <li>Python, Django, Flask</li>
+          <li>Python</li>
           <li>Penetration Testing & Vulnerability Assessment</li>
           <li>Cybersecurity Analysis & SOC Monitoring</li>
           <li>Cloud Security & CI/CD Pipelines</li>
