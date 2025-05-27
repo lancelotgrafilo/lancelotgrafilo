@@ -93,6 +93,11 @@ function App() {
         <h2>Projects</h2>
         <div className="project-list">
           <div className="project-card">
+            <h3>eGrade Navigator: An Enhanced Online Grading System with Grade Viewing</h3>
+            <p>eGrade Navigator is a powerful, user-friendly online grading system that simplifies grade management and enhances academic transparency. Offering real-time grade viewing, automated calculations, and detailed performance insights, it empowers educators, students, and parents with secure, centralized access to essential grading tools and data.</p>
+            <a href='https://github.com/lancelotgrafilo/egrade-frontend' target='_blank'>See More...</a>
+          </div>
+          <div className="project-card">
             <h3>Secure Web Application</h3>
             <p>A full-stack application featuring JWT authentication and OWASP security best practices.</p>
           </div>
