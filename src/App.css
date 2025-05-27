@@ -43,6 +43,23 @@ body {
   text-align: left;
 }
 
+.download-cv-btn {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #1b263b;
+  color: #f5f5f5;
+  text-decoration: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.download-cv-btn:hover {
+  background-color: #141e27;
+  transform: translateY(-2px);
+}
+
 .hero-image {
   flex: 1;
   min-width: 250px;
