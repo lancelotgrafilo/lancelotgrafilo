@@ -98,6 +98,16 @@ function App() {
             <a href='https://github.com/lancelotgrafilo/egrade-frontend' target='_blank'>See More...</a>
           </div>
           <div className="project-card">
+            <h3>Sample Department of Information and Communications Technology - Cybersecurity Bureau</h3>
+            <p>
+              This project was developed during my On-The-Job Training (OJT) at the 
+              Department of Information and Communications Technology - Cybersecurity Bureau (DICT-Cybersecurity Bureau). 
+              It is a sample homepage designed to showcase the functions and initiatives of the Cybersecurity Bureau. 
+              Please note that this is not the official website of DICT, but rather a training output created for demonstration purposes.
+            </p>
+            <a href='https://github.com/lancelotgrafilo/DICT_frontend'  target='_blank' rel="noopener noreferrer">See More...</a>
+          </div>
+          <div className="project-card">
             <h3>Secure Web Application</h3>
             <p>A full-stack application featuring JWT authentication and OWASP security best practices.</p>
           </div>
