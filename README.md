@@ -2,7 +2,7 @@
 
 👋 Hello! I'm **Lancelot Grafilo**, a passionate **Cybersecurity Analyst**, **Penetration Tester**, and **Full Stack Developer** with hands-on experience in secure software development, vulnerability assessment, and SOC monitoring. This repository contains the source code for my personal web portfolio built using **React.js**.
 
-🔗 [View Live Portfolio](https://your-portfolio-url.com ) *(replace this with your actual hosted link)*  
+🔗 [View Live Portfolio](https://lancelotgrafilo.onrender.com/)
 🐙 GitHub: [github.com/lancelotgrafilo](https://github.com/lancelotgrafilo )  
 ✉️ Email: grafilolancelot@gmail.com  
 💼 LinkedIn: [/in/lancelot-grafilo](https://linkedin.com/in/lancelot-grafilo )
@@ -17,7 +17,7 @@ I am a dedicated IT professional focused on bridging the gap between **software 
 
 ## 💼 Skills
 
-- **Web Development**: JavaScript, React, Node.js, Python, Django, Flask
+- **Web Development**: JavaScript, React, Node.js
 - **Cybersecurity**: Penetration Testing, Vulnerability Assessment, SOC Monitoring
 - **Tools & Platforms**: OWASP, CI/CD, GitHub Actions, Cloud Security (AWS/Azure)
 - **Others**: Network Security, DevSecOps Practices, Intrusion Detection Systems
