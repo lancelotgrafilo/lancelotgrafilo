@@ -126,12 +126,11 @@ function App() {
       <section className="cta" id="cta">
         <h2>Certifications, Trainings, and Achievements</h2>
         <ul>
+          <li>Ethical Hacker - Cisco Networking Academy</li>
+          <li>Networking Basics - Cisco Networking Academy</li>
           <li>Python Essentials I – Cisco Networking Academy</li>
           <li>Introduction to Cybersecurity – Cisco Networking Academy</li>
           <li>Ethical Hacking: Understanding the Thin Line – DICT R9 & BASULTA Training Division via Zoom</li>
-          <li>DICT-ICT018 Basic Level of Software Engineering – DICT-LMS</li>
-          <li>DICT-ICT013 Intermediate Level of Software Engineering – DICT-LMS</li>
-          <li>DICT-ICT017 Advanced Level of Software Engineering – DICT-LMS</li>
           <li>Securing Web Applications – DICT Camarines Norte, Region V via Zoom</li>
         </ul>
       </section>

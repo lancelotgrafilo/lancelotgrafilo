@@ -39,12 +39,11 @@ Automated CI/CD pipeline with GitHub Actions and integrated security scanning to
 
 ## 🏆 Certifications / Trainings
 
+- Ethical Hacker - Cisco Networking Academy
+- Networking Basics - Cisco Networking Academy
 - Python Essentials I - Cisco Networking Academy
 - Introduction to Cybersecurity - Cisco Networking Academy
 - Ethical Hacking Training - DICT R9 & BASULTA
-- DICT-ICT018: Basic Software Engineering
-- DICT-ICT013: Intermediate Software Engineering
-- DICT-ICT017: Advanced Software Engineering
 - Securing Web Applications - DICT Camarines Norte
 
 ---
